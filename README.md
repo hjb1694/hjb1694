@@ -8,8 +8,10 @@ You can learn more about me here:
 3. [My LinkedIn](https://www.linkedin.com/in/hayden-bradfield-56883622a)
 
 ⚠️ **Please Note:** Most of my good work exists in private repositories. I want to prevent theft of my most valuable projects. Invites are only granted for certain reasons. Although, you can view some of these projects live in the browser:
+
 * [K-Town Portal Registration](https://register.greaterknoxtn.com)
 * [K-Town Portal Main](https://www.greaterknoxtn.com)
+
 The projects above are still under construction.
 
 ### Some of My Mentionable Skills
@@ -34,6 +36,7 @@ The projects above are still under construction.
 19. VSCode
 20. Bash and zShell
 21. Ionic Framework
+22. Object Relational Mappers (ORMs): TypeORM
 
 <!--
 **hjb1694/hjb1694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
