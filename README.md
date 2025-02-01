@@ -8,11 +8,11 @@ You can learn more about me here:
 3. [My LinkedIn](https://www.linkedin.com/in/hayden-bradfield-56883622a)
 
 ⚠️ **Please Note:** Most of my good work exists in private repositories. I want to prevent theft of my most valuable projects. Invites are only granted for certain reasons. Although, you can view some of these projects live in the browser:
--- [K-Town Portal Registration](https://register.greaterknoxtn.com)
--- [K-Town Portal Main](https://www.greaterknoxtn.com)
+* [K-Town Portal Registration](https://register.greaterknoxtn.com)
+* [K-Town Portal Main](https://www.greaterknoxtn.com)
 The projects above are still under construction.
 
-## Some of My Mentionable Skills
+### Some of My Mentionable Skills
 1. HTML
 2. CSS
 3. JavaScript
