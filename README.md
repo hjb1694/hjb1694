@@ -9,8 +9,9 @@ You can learn more about me here:
 
 ⚠️ **Please Note:** Most of my good work exists in private repositories. I want to prevent theft of my most valuable projects. Invites are only granted for certain reasons. Although, you can view some of these projects live in the browser:
 
-* [K-Town Portal Registration](https://register.greaterknoxtn.com) ↗️
-* [K-Town Portal Main](https://www.greaterknoxtn.com) ↗️
+* [Selah Custom Designs](https://selahcustomdesigns.com) ↗️
+* [BMJ Stone](https://bmjstone.com) ↗️
+* [MJM Consulting and Bookkeeping, LLC](https://mjmconsultingtn.com) ↗️
 
 The projects above are still under construction.
 
